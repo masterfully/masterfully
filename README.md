@@ -26,7 +26,7 @@ I enjoy working in collaborative environments, solving real-world problems, and 
 
 | Category | Skills |
 |---------|--------|
-| **Languages** | JavaScript, TypeScript (learning), Java, SQL |
+| **Languages** | JavaScript, Java, SQL |
 | **Backend** | Node.js (learning) |
 | **Frontend** | HTML, CSS, jQuery, AJAX, Fetch API |
 | **Databases** | MySQL, SQL Server |
