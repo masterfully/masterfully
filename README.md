@@ -44,7 +44,7 @@ I thrive in Agile teams, enjoy designing APIs and intuitive UIs, and constantly 
 **Highlights:**  
 - **Full-stack development:** Built user-management features on both front-end and back-end.  
 - **API design & testing:** Designed RESTful APIs and validated endpoints using Postman to ensure secure and efficient data flow.  
-- **SSR & Routing:** Implemented server-side rendering and dynamic routing with Next.js to improve performance and SEO.  
+- **SSR & Routing:** Implemented server-side rendering and dynamic routing with Next.js to improve performance.  
 - **Agile collaboration:** Participated in sprint planning, daily stand-ups, and code reviews, gaining experience with professional workflows.
 
 ---
@@ -55,7 +55,7 @@ I thrive in Agile teams, enjoy designing APIs and intuitive UIs, and constantly 
 
 **Highlights:**  
 - Developed core modules such as product catalog, shopping cart, order management, and Momo payment integration.  
-- Integrated **Fchat customer service** to provide real-time support and notifications.  
+- Integrated Fchat customer service to provide real-time support and notifications.  
 - Implemented RESTful APIs and applied MVC principles for clean separation of concerns.  
 - Created automated API test suites and optimized database queries for performance.
 
