@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Đào Thanh Tú</h1>
 <p align="center">
-  💻 Software Engineering Student | 🧪 Aspiring QA Engineer & Node.js Developer<br>
+  💻 Software Engineering Student | 🌱 Aspiring Full-Stack Developer<br>
   📍 Ho Chi Minh City, Vietnam | 🎓 Saigon University (2022–2026)
 </p>
 
@@ -8,17 +8,18 @@
 
 ## 🌟 About Me
 
-I’m a final-year Software Engineering student with a passion for **building reliable systems** and **ensuring quality software through testing**. While I’ve built a strong foundation as a **Manual and Automation Tester**, I’m also pursuing opportunities to grow as a **Backend Developer** using **Node.js** and **TypeScript**.
+I’m a Software Engineering student passionate about **full-stack web development** and delivering **clean, scalable software**.  
+During my internship at **Cloud Technology Vietnam**, I worked with **React/Next.js** and **Java Spring Boot**, gaining real production experience and reinforcing my love for building robust applications.
 
-I enjoy working in collaborative environments, solving real-world problems, and continuously improving my skills in software testing, web technologies, and backend development.
+I thrive in Agile teams, enjoy designing APIs and intuitive UIs, and constantly explore new technologies to grow as a developer.
 
 ---
 
 ## 🎯 Career Goals
 
-- ✅ Become a well-rounded **QA Engineer** with hands-on automation skills.
-- ✅ Transition into a **Node.js/TypeScript Developer** role, contributing to scalable backend services.
-- ✅ Work in a product or outsourcing company where I can learn from senior engineers and deliver real value.
+- 🚀 Grow into a **Full-Stack Developer** (React/Next.js & Spring Boot/Node.js).  
+- 💡 Contribute to impactful products where I can learn from senior engineers and ship high-quality features.  
+- 🔄 Continue improving in automated testing to deliver stable, maintainable code.
 
 ---
 
@@ -26,55 +27,66 @@ I enjoy working in collaborative environments, solving real-world problems, and 
 
 | Category | Skills |
 |---------|--------|
-| **Languages** | JavaScript, Java, SQL |
-| **Backend** | Node.js (learning) |
-| **Frontend** | HTML, CSS, jQuery, AJAX, Fetch API |
-| **Databases** | MySQL, SQL Server |
-| **Testing** | Postman (API Testing), Selenium (Java), JUnit |
-| **Manual Testing** | Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition, Use Case, Control Flow, Data Flow |
-| **Tools & Platforms** | Git, GitHub, VS Code, Postman, Chrome DevTools |
+| **Languages** | JavaScript, Java |
+| **Frontend** | React, Next.js, TypeScript, SCSS |
+| **Backend** | Java Spring Boot, Node.js (learning) |
+| **Databases** | PostgreSQL, MySQL |
+| **Testing & Tools** | Postman, Git/GitHub, Agile/Scrum, JUnit |
 
 ---
 
-## 🧪 Selected Projects
+## 🚀 Key Projects
+
+### 🔑 Internal Admin Center Platform  
+*Cloud Technology Vietnam – Internship (Jun–Aug 2025)*  
+**Tech Stack:** React, Next.js, TypeScript, SCSS, Spring Boot, PostgreSQL, Git, Postman  
+
+**Highlights:**  
+- **Full-stack development:** Built user-management features on both front-end and back-end.  
+- **API design & testing:** Designed RESTful APIs and validated endpoints using Postman to ensure secure and efficient data flow.  
+- **SSR & Routing:** Implemented server-side rendering and dynamic routing with Next.js to improve performance and SEO.  
+- **Agile collaboration:** Participated in sprint planning, daily stand-ups, and code reviews, gaining experience with professional workflows.
+
+---
 
 ### 🛍 E-commerce Platform for Smartwatch Store  
-📅 *Jan 2025 – Apr 2025*  
-🔧 **Technologies**: MVC architecture, JavaScript, Postman, Selenium, jQuery, Momo Payment  
-💡 **Key Contributions**:
-- Conducted API and UI testing across major features: order tracking, Fchat integration, and Momo payment.
-- Built Selenium test scripts to automate regression flows.
-- Worked closely with the dev team to detect and fix critical bugs.
+*University Project (Jan–Apr 2025)*  
+**Tech Stack:** MVC architecture, JavaScript (AJAX/Fetch/jQuery), MySQL, Postman  
 
-➡️ [GitHub Repository](https://github.com/LilsShine142/WebPHP_DoAn_EC)
+**Highlights:**  
+- Developed core modules such as product catalog, shopping cart, order management, and Momo payment integration.  
+- Integrated **Fchat customer service** to provide real-time support and notifications.  
+- Implemented RESTful APIs and applied MVC principles for clean separation of concerns.  
+- Created automated API test suites and optimized database queries for performance.
+
+➡️ [Repository](https://github.com/LilsShine142/WebPHP_DoAn_EC)
 
 ---
 
-### 📱 Phone Store Management System (Testing Project)  
-📅 *Aug 2024 – Dec 2024*  
-🔧 **Technologies**: JUnit, Postman, MySQL, Manual Testing Techniques  
-💡 **Key Contributions**:
-- Applied both black-box and white-box testing methodologies.
-- Executed test cases and documented defects with proper traceability (BRD, TRD, RTM, etc.).
-- Automated unit tests with JUnit and validated APIs using Postman.
+### 🧪 Phone Store Management System (Testing Project)  
+*University Project (Aug–Dec 2024)*  
+**Tech Stack:** JUnit, Postman, MySQL  
 
-📄 [Project Report](https://docs.google.com/document/d/1IO858RJlngFYU4X2ZP35yGUljatrrTmH06ninPa3dUo/edit?tab=t.0)
+**Highlights:**  
+- Designed and executed both black-box and white-box test cases, ensuring high coverage.  
+- Automated unit tests using JUnit and validated all API endpoints with Postman.  
+- Maintained complete documentation (BRD, TRD, RTM) for traceability and quality assurance.
 
 ---
 
 ## 📜 Certifications
 
-- 📝 **TOEIC 650** – Listening & Reading
+- 📝 **TOEIC 650** (Listening & Reading)  
+- *(IELTS estimated 5.5 – planning to take official test)*
 
 ---
 
-## 📬 Contact & Profiles
+## 📬 Contact
 
-- 📧 **Email**: [daothanhtuforjob@gmail.com](mailto:daothanhtuforjob@gmail.com)  
-- 🔗 **GitHub**: [github.com/masterfully](https://github.com/masterfully)  
-- 💼 **LinkedIn**: [Tú Đào](https://www.linkedin.com/in/t%C3%BA-%C4%91%C3%A0o-2087b026a/)
+- 📧 **Email**: [jamesdao.swe@gmail.com](mailto:daothanhtuforjob@gmail.com)  
+- 💼 **LinkedIn**: [Tú Đào](https://www.linkedin.com/in/t%C3%BA-%C4%91%C3%A0o-2087b026a/)  
+- 💻 **GitHub**: [masterfully](https://github.com/masterfully)
 
 ---
 
-> 🧠 *“Always learning, always testing, always building.”*  
-Thank you for visiting my GitHub profile!
+> 💡 *“Always learning, always building, always improving.”*
