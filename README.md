@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Đào Thanh Tú</h1>
+<h1 align="center">👋 Hi, I'm Đào Thanh Tú (James Dao)</h1>
 <p align="center">
-  💻 Software Engineering Student | 🌱 Aspiring Full-Stack Developer<br>
+  💻 Software Engineer | 🧪 Automation QA Engineer<br>
   📍 Ho Chi Minh City, Vietnam | 🎓 Saigon University (2022–2026)
 </p>
 
@@ -8,18 +8,23 @@
 
 ## 🌟 About Me
 
-I’m a Software Engineering student passionate about **full-stack web development** and delivering **clean, scalable software**.  
-During my internship at **Cloud Technology Vietnam**, I worked with **React/Next.js** and **Java Spring Boot**, gaining real production experience and reinforcing my love for building robust applications.
+I’m a Software Engineering student with a strong focus on **Automation Testing and Full-Stack Development**.
 
-I thrive in Agile teams, enjoy designing APIs and intuitive UIs, and constantly explore new technologies to grow as a developer.
+I have hands-on experience building **scalable E2E test frameworks** and developing **real-world web applications** using modern technologies like **Playwright, React/Next.js, and Spring Boot**.
+
+💡 What makes me different:
+- I understand both **how to build systems** and **how to break & validate them**
+- I can collaborate across **QA, Backend, and Frontend teams**
+- I focus on **quality, maintainability, and real-world scalability**
 
 ---
 
 ## 🎯 Career Goals
 
-- 🚀 Grow into a **Full-Stack Developer** (React/Next.js & Spring Boot/Node.js).  
-- 💡 Contribute to impactful products where I can learn from senior engineers and ship high-quality features.  
-- 🔄 Continue improving in automated testing to deliver stable, maintainable code.
+- 🚀 Become a **Software Engineer / Automation QA Engineer**
+- 🧪 Specialize in **Test Automation & System Quality Engineering**
+- 💡 Contribute to products with strong **engineering and testing culture**
+- 🔄 Grow toward **SDET (Software Development Engineer in Test)**
 
 ---
 
@@ -27,66 +32,95 @@ I thrive in Agile teams, enjoy designing APIs and intuitive UIs, and constantly 
 
 | Category | Skills |
 |---------|--------|
-| **Languages** | JavaScript, Java |
-| **Frontend** | React, Next.js, TypeScript, SCSS |
-| **Backend** | Java Spring Boot, Node.js (learning) |
-| **Databases** | PostgreSQL, MySQL |
-| **Testing & Tools** | Postman, Git/GitHub, Agile/Scrum, JUnit |
+| **Languages** | JavaScript, TypeScript, Java |
+| **Frontend** | React, Next.js, SCSS |
+| **Backend** | Spring Boot, Node.js (learning) |
+| **Testing** | Playwright, Cucumber (BDD), E2E Testing, JUnit |
+| **Database** | PostgreSQL, MySQL |
+| **Tools** | Git, GitHub, GitLab, Postman, Jira, Confluence |
+| **Workflow** | Agile/Scrum, CI-ready testing, Debugging & Failure Analysis |
 
 ---
 
 ## 🚀 Key Projects
 
-### 🔑 Internal Admin Center Platform  
-*Cloud Technology Vietnam – Internship (Jun–Aug 2025)*  
-**Tech Stack:** React, Next.js, TypeScript, SCSS, Spring Boot, PostgreSQL, Git, Postman  
+### 🧪 E2E Test Automation Framework (Production-Level)
+*Cloud Technology Vietnam (Nov 2025 – Feb 2026)*  
+**Tech Stack:** Playwright, TypeScript, Cucumber BDD  
 
-**Highlights:**  
-- **Full-stack development:** Built user-management features on both front-end and back-end.  
-- **API design & testing:** Designed RESTful APIs and validated endpoints using Postman to ensure secure and efficient data flow.  
-- **SSR & Routing:** Implemented server-side rendering and dynamic routing with Next.js to improve performance.  
-- **Agile collaboration:** Participated in sprint planning, daily stand-ups, and code reviews, gaining experience with professional workflows.
+**Highlights:**
+- Built a **complete E2E automation framework** covering **4 integrated systems**
+- Developed **100+ automated test cases** and **20+ business workflows**
+- Applied **Page Object Model (50+ classes)** for maintainability
+- Implemented **test data factory + auto cleanup**, eliminating data conflicts
+- Designed **logging & HTML reporting system (5 severity levels)**
+- Wrote **Gherkin test scenarios** for non-technical stakeholders
+
+🏆 **Achievement:** Delivered a **CI-ready framework** with full documentation and zero data collision issues
 
 ---
 
-### 🛍 E-commerce Platform for Smartwatch Store  
+### 🔑 Internal Admin Platform (Full-Stack)
+*Cloud Technology Vietnam – Internship (Sep–Oct 2025)*  
+**Tech Stack:** React, Next.js, TypeScript, Spring Boot, PostgreSQL  
+
+**Highlights:**
+- Built **user management system** (full-stack)
+- Designed and tested **RESTful APIs**
+- Implemented **SSR and dynamic routing with Next.js**
+- Applied **Flyway for database versioning & migrations**
+- Worked in **Agile Scrum team (sprints, reviews, code reviews)**
+
+---
+
+### 🛍 E-commerce Platform (Smartwatch Store)
 *University Project (Jan–Apr 2025)*  
-**Tech Stack:** MVC architecture, JavaScript (AJAX/Fetch/jQuery), MySQL, Postman  
+**Tech Stack:** JavaScript, MVC, MySQL  
 
-**Highlights:**  
-- Developed core modules such as product catalog, shopping cart, order management, and Momo payment integration.  
-- Integrated Fchat customer service to provide real-time support and notifications.  
-- Implemented RESTful APIs and applied MVC principles for clean separation of concerns.  
-- Created automated API test suites and optimized database queries for performance.
+**Highlights:**
+- Developed **cart, order, and payment integration (Momo)**
+- Built **REST APIs & applied MVC architecture**
+- Integrated **real-time customer support (Fchat)**
+- Optimized **database queries for performance**
 
-➡️ [Repository](https://github.com/LilsShine142/WebPHP_DoAn_EC)
+➡️ Repository:  
+https://github.com/LilsShine142/WebPHP_DoAn_EC
 
 ---
 
-### 🧪 Phone Store Management System (Testing Project)  
+### 🧪 Testing Project – Phone Store System
 *University Project (Aug–Dec 2024)*  
-**Tech Stack:** JUnit, Postman, MySQL  
 
-**Highlights:**  
-- Designed and executed both black-box and white-box test cases, ensuring high coverage.  
-- Automated unit tests using JUnit and validated all API endpoints with Postman.  
-- Maintained complete documentation (BRD, TRD, RTM) for traceability and quality assurance.
+**Highlights:**
+- Designed **black-box & white-box test cases**
+- Applied **Equivalence Partitioning & Boundary Value Analysis**
+- Automated testing with **JUnit & Postman**
+- Maintained **BRD, TRD, RTM documentation**
 
 ---
 
 ## 📜 Certifications
 
-- 📝 **TOEIC 650** (Listening & Reading)  
-- *(IELTS estimated 5.5 – planning to take official test)*
+- 📝 **Aptis – CEFR B2 (Upper-Intermediate)**  
+- 🎯 TOEIC Target: 750+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masterfully&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterfully&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📬 Contact
 
-- 📧 **Email**: [jamesdao.swe@gmail.com](mailto:daothanhtuforjob@gmail.com)  
-- 💼 **LinkedIn**: [Tú Đào](https://www.linkedin.com/in/t%C3%BA-%C4%91%C3%A0o-2087b026a/)  
-- 💻 **GitHub**: [masterfully](https://github.com/masterfully)
+- 📧 Email: **jamesdao.swe@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/jamesdaoswe/  
+- 💻 GitHub: https://github.com/masterfully  
 
 ---
 
-> 💡 *“Always learning, always building, always improving.”*
+> 💡 *“Build it. Break it. Improve it.”*
